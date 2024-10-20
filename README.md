@@ -1,4 +1,4 @@
-<div class="container">
+
 
 # Eymen Yıldırım Genel Bilgi
 
@@ -40,4 +40,4 @@ rockeymen.site
 
 burak.click
 
-<div>
+
