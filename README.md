@@ -1,4 +1,3 @@
-<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 5px; background-color: #031111;">
 
 # Eymen Yıldırım
 
@@ -29,5 +28,3 @@ Eymen Yıldırım 2013 yılında İstanbul'da doğmuştur, teknolojiye ilgisi va
 - [yusuftekinistifa.click](https://yusuftekinistifa.click)
 - [rockeymen.site](https://rockeymen.site)
 - [burak.click](https://burak.click)
-
-</div>
