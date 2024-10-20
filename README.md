@@ -1,4 +1,4 @@
-<div>
+<div style="border: 1px solid #ccc; padding: 10px; margin: 10px 0; border-radius: 5px; background-color: #031111;">
 
 # Eymen Yıldırım
 
