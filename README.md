@@ -1,6 +1,4 @@
 
-<div class="container">
-
 <img src="/face.png" alt="Profil Resmi" width="50" height="50">
 
 # Eymen Yıldırım
