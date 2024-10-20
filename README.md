@@ -1,7 +1,5 @@
 <div class="container">
 
-![profil](/face.png)
-
 # Eymen Yıldırım Genel Bilgi
 
 Eymen Yıldırım 2013 yılında istanbul'da doğmuştur, teknoloji'ye ilgisi vardır
