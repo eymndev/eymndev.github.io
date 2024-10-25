@@ -10,8 +10,8 @@ Eymen Yıldırım 2013 yılında İstanbul'da doğmuştur, teknolojiye ilgisi va
 1. Gülen Dünya Anaokulu - 2013
 2. Kale Anaokulu Cordella - 2013
 3. Kale Koleji - 1. - 3. sınıf
-4. Atatürk İlkokulu Tuzla - 4. sınıf
-5. Evliya Çelebi Ortaokulu Tuzla - 5. - 6. sınıf
+4. Atatürk İlkokulu - 4. sınıf
+5. Evliya Çelebi Ortaokulu - 5. - 6. sınıf
 
 ## İlgi Alanları
 1. Yazılım
