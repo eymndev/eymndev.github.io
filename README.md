@@ -31,5 +31,6 @@ Eymen Yıldırım 2013 yılında İstanbul'da doğmuştur, teknolojiye ilgisi va
 - [rockeymen.site](https://rockeymen.site)
 - [burak.click](https://burak.click)
 - [Engelle Engelle Nereye Kadar?](https://2013dogumeymen.github.io/Engelle-Engelle-Nereye-Kadar/)
+- [xox.rockeymen.site](xox.rockeymen.site)
+- [gpt.rockeymen.site](gpt.rockeymen.site)
 
-</div>
