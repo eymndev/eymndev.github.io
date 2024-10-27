@@ -1,9 +1,14 @@
-
-<img src="/face.png" alt="Profil Resmi" width="50" height="50">
+<div align="right">
+<img src="/Ekim.gif" alt="29 ekim kutlu olsun" width="100" height="100">
+</div>
+<div align="center">
+<img src="/face.png" alt="Profil Resmi" width="100" height="100">
+</div>
 
 # Eymen Yıldırım
 
 ## Genel Bilgi
+
 Eymen Yıldırım 2013 yılında İstanbul'da doğmuştur, teknolojiye ilgisi vardır.
 
 ## Eğitim
