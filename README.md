@@ -28,13 +28,3 @@ Eymen Yıldırım 2013 yılında İstanbul'da doğmuştur, teknolojiye ilgisi va
 ## E-Posta
 - E-Posta 1: eymenyildirim13@icloud.com
 - E-Posta 2: eymenyildirim13@outlook.com
-- E-Posta 3: eymenyildirim132013@gmail.com
-
-## Kurduğum Siteler
-- [yusuftekinistifa.click](https://yusuftekinistifa.click)
-- [rockeymen.site](https://rockeymen.site)
-- [burak.click](https://burak.click)
-- [Engelle Engelle Nereye Kadar?](https://2013dogumeymen.github.io/Engelle-Engelle-Nereye-Kadar/)
-- [xox.rockeymen.site](https://xox.rockeymen.site)
-- [gpt.rockeymen.site](https://gpt.rockeymen.site)
-- [rockeymen.site/Yazilim-Sozlugu/](https://rockeymen.site/Yazilim-Sozlugu/)
