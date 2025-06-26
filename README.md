@@ -22,8 +22,7 @@ Eymen Yıldırım 2013 yılında İstanbul'da doğmuştur, teknolojiye ilgisi va
 1. Yazılım
 
 ## Hesaplar
-- **GitHub:** [github.com/2013dogumeymen](https://github.com/2013dogumeymen)
-- **YouTube:** [youtube.com/@rockeymen_45](https://youtube.com/@rockeymen_45?si=qJhz9jms8b06v83V)
+- **GitHub:** [github.com/eymndev](https://github.com/eymndev)
 - **Instagram:** [instagram.com/rockeymen45](https://www.instagram.com/rockeymen45/)
 
 ## E-Posta
