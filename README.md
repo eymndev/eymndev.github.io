@@ -1,9 +1,9 @@
-<div align="right">
-<img src="/Ekim.gif" alt="29 ekim kutlu olsun" width="100" height="100">
+<!-- <div align="right"> 
+<img src="/Ekim.gif" alt="29 ekim kutlu olsun" width="100" height="100"> 
 </div>
 <div align="center">
 <img src="/29-ekim-face.png" alt="Profil Resmi" width="100" height="100">
-</div>
+</div> -->
 
 # Eymen Yıldırım
 
