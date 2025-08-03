@@ -3,24 +3,31 @@
 
 # Eymen Yıldırım
 
-## Genel Bilgi
+## General Information
 
-Eymen Yıldırım 2013 yılında İstanbul'da doğmuştur, teknolojiye ilgisi vardır.
+Eymen Yıldırım was born in 2013 and lives in Istanbul Turkiye,
 
-## Eğitim
-1. Gülen Dünya Anaokulu - 2013
-2. Kale Anaokulu Cordella - 2013
-3. Kale Koleji - 1. - 3. sınıf
-4. Atatürk İlkokulu - 4. sınıf
-5. Evliya Çelebi Ortaokulu - 5. - 6. sınıf
+## Education
+1. Gülen Dünya Kindergarten - 2013 yr
+2. Kale Kindergarten Cordella - 2013 yr
+3. Kale Collage - 1. - 3. Grade
+4. Atatürk Primary School - 4. Grade
+5. Evliya Çelebi Middle School - 5. - 6. Grade
 
-## İlgi Alanları
-1. Yazılım
+## Hobys
+1. Programming
+2. Physics
+3. Other Sciences
 
-## Hesaplar
+## Accounts
 - **GitHub:** [github.com/eymndev](https://github.com/eymndev)
 - **Instagram:** [instagram.com/rockeymen45](https://www.instagram.com/rockeymen45/)
 
 ## E-Posta
 - E-Posta 1: eymenyildirim13@icloud.com
-- E-Posta 2: eymenyildirim13@outlook.com
+
+## Projects
+- [emcalc](https://github.com/emcalc/emcalc)
+- [Medicine View](https://medicineview.github.io/)
+
+[All Projects](https://github.com/eymndev)
