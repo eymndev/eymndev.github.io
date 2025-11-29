@@ -10,9 +10,9 @@ Eymen Yıldırım was born in 2013 and lives in Istanbul Turkiye,
 ## Education
 1. Gülen Dünya Kindergarten - 2013 yr
 2. Kale Kindergarten Cordella - 2013 yr
-3. Kale Collage - 1. - 3. Grade
+3. Kale Collage - 1, 2 and 3rd Grade
 4. Atatürk Primary School - 4. Grade
-5. Evliya Çelebi Middle School - 5. - 6. Grade
+5. Evliya Çelebi Middle School - 5, 6 and 7th Grade
 
 ## Hobys
 1. Programming
