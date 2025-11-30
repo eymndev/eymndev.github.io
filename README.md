@@ -21,7 +21,7 @@ Eymen Yıldırım was born in 2013 and lives in Istanbul Turkiye,
 
 ## Accounts
 - **GitHub:** [github.com/eymndev](https://github.com/eymndev)
-- **Instagram:** [instagram.com/rockeymen45](https://www.instagram.com/eymn.yld/)
+- **Instagram:** [instagram/eymn.yld](https://www.instagram.com/eymn.yld/)
 
 ## E-Posta
 - E-Posta 1: eymenyildirim13@icloud.com
