@@ -20,7 +20,7 @@ Eymen Yıldırım was born in 2013 and lives in Istanbul Turkiye,
 3. Other Sciences
 
 ## Accounts
-- **GitHub:** [github.com/eymndev](https://github.com/eymndev)
+- **GitHub:** [github/eymndev](https://github.com/eymndev)
 - **Instagram:** [instagram/eymn.yld](https://www.instagram.com/eymn.yld/)
 
 ## E-Posta
