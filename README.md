@@ -7,6 +7,13 @@
 
 Eymen Yıldırım was born in 2013 and lives in Istanbul Turkiye,
 
+# Language
+
+- Türkçe(Turkish) (Native)
+- English (B1)
+- Deustch(German) (A1)
+
+
 ## Education
 1. Gülen Dünya Kindergarten - 2013 yr
 2. Kale Kindergarten Cordella - 2013 yr
@@ -23,8 +30,9 @@ Eymen Yıldırım was born in 2013 and lives in Istanbul Turkiye,
 - **GitHub:** [github/eymndev](https://github.com/eymndev)
 - **Instagram:** [instagram/eymn.yld](https://www.instagram.com/eymn.yld/)
 
-## E-Posta
-- E-Posta 1: eymenyildirim13@icloud.com
+## E-mail
+- E-mail 1: eymenyildirim13@proton.me
+- E-mail 2: eymn132013@gmail.com
 
 ## Projects
 - [emcalc](https://github.com/emcalc/emcalc)
